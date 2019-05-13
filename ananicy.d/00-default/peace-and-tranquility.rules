@@ -5,4 +5,8 @@
 # Loli Lore
 # Loli Lore
 # Hail all the Performance Monitor daemons
+# TODO : Force push this to fix this loli lore later
 { "name": "netdata",            "type": "Loli_Lore" }
+
+# Redis server need a load balance too now
+{ "name": "redis-server",            "type": "Heavy_Prio" }
