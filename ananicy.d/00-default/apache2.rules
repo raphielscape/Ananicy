@@ -1,1 +1,1 @@
-{ "name": "apache2", "type": "Heavy_CPU" }
+{ "name": "apache2", "type": "Heavy_Prio" }

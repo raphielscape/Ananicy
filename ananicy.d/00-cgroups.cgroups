@@ -5,3 +5,6 @@
 # only difference is - meaning of N% is all CPUs, not one core.
 { "cgroup": "cpu90", "CPUQuota": 90 }
 { "cgroup": "cpu80", "CPUQuota": 80 }
+
+# Loli Lore cgroup
+{ "cgroup": "cpu50", "CPUQuota": 50 }

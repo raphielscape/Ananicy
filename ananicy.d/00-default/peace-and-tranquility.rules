@@ -1,5 +1,8 @@
-{ "name": "php-cgi7.3",         "type": "Heavy_Prio" }
-{ "name": "apache2",            "type": "Heavy_Prio" }
+# Python stacks processes?
 { "name": "python3",            "type": "Heavy_Prio" }
-{ "name": "fail2ban-server",    "type": "BG_CPUIO"   }
-{ "name": "mysqld",             "type": "Heavy_Prio" }
+
+# Loli Lore
+# Loli Lore
+# Loli Lore
+# Hail all the Performance Monitor daemons
+{ "name": "netdata",            "type": "Loli_Lore" }
