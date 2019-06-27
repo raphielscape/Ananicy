@@ -1,0 +1,6 @@
+################################################################################S
+{ "name": "tracker-miner-fs",        "type": "BG_CPUIO" }
+
+{ "name": "Xwayland",                "type": "LowLatency_RT" }
+{ "name": "gdm-wayland-session",     "type": "LowLatency_RT" }
+{ "name": "gnome-shell",             "nice": -1 }
