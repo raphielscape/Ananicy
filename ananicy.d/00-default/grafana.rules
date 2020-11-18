@@ -1,0 +1,5 @@
+# Some rules for Grafana stack
+
+{ "name": "telegraf", "type": "Heavy_Prio" }
+{ "name": "grafana-server", "type": "Heavy_Prio" }
+{ "name": "influxd", "type": "Heavy_Prio" }
