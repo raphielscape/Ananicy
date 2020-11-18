@@ -1,6 +1,6 @@
 ################################################################################
 # Rules for Steam and Steam Apps: http://store.steampowered.com
-{ "name": "steam", "type": "BG_CPUIO" }
+#{ "name": "steam", "type": "BG_CPUIO" }
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "BG_CPUIO" }
 
@@ -10,6 +10,8 @@
 { "name": "cure_linux", "type": "Game"}
 # http://store.steampowered.com/app/570
 { "name": "dota2", "type": "Game"}
+# https://store.steampowered.com/app/70
+{ "name": "hl_linux", "type": "Game"}
 # http://store.steampowered.com/app/440
 { "name": "hl2_linux", "type": "Game"}
 # http://store.steampowered.com/app/4920/Natural_Selection_2/
@@ -34,7 +36,8 @@
 { "name": "SaintsRow4.i386", "type": "Game"}
 # http://store.steampowered.com/app/203160
 { "name": "TombRaider", "type": "Game"}
-
+# https://store.steampowered.com/app/750920/
+{ "name": "ShadowOfTheTombRaider", "type": "Game"}
 # http://store.steampowered.com/app/301520
 { "name": "Robocraft.x86_64", "type": "Game"}
 
@@ -43,3 +46,6 @@
 
 # https://store.steampowered.com/app/394360
 { "name": "hoi4", "type": "Game"}
+
+# https://store.steampowered.com/app/225840
+{ "name": "svencoop_linux", "type": "Game"}
